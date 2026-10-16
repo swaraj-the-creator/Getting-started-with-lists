@@ -7,5 +7,5 @@ def match_words(words):
             lst.append(word)
     print("List of words with first and last character same\n",lst)
     return ctr
-count = match_words(['abc','cfc','xyz','aba',1221])
+count = match_words(['abc','cfc','xyz','aba','1221'])
 print("Number of words having  first and last character same: ",count)
