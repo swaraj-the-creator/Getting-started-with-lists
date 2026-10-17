@@ -48,4 +48,3 @@ print("Average Marks:", average)
 print("Lowest Mark:", marks[0])
 print("Highest Mark:", marks[-1])
 print("=======================================")
-v
